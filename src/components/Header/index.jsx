@@ -23,11 +23,7 @@ const Header = () => (
             Contact
           </Link>
         </li>
-         <li>
-          <Link className="nav-link" to="/contact">
-            Contact
-          </Link>
-        </li>
+        
       </ul>
     </div>
   </nav>
