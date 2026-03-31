@@ -5,6 +5,7 @@ const Header = () => (
   <nav className="nav-header">
     <div className="blog-container">
       <h1 className="blog-title">My Blog</h1>
+       
       <ul className="nav-menu">
         <li>
           <Link className="nav-link" to="/">

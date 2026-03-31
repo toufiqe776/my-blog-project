@@ -11,6 +11,20 @@
   display: flex;
   margin-left: -40px;
 }
+.logo-container {
+  display: flex;
+}
+.logo-img {
+  height: 40px;
+  width: 29px;
+  margin: 12px;
+}
+.name {
+  color: #6d396b;
+  font-size: 22px;
+  font-family: 'Roboto';
+  font-weight: bold;
+}
 
 .nav-link {
   text-decoration: none;
